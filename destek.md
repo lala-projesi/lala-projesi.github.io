@@ -10,6 +10,8 @@ Henüz üç kişilik çekirdek ekip ile çıktığımız yolda, giderek artan sa
 
 Projemizin geliştirme, kurulum, tanıtım ve kullanıcı ilişkileri kurma aşamasında işleri yürütebilmemiz için gerekli minimum ihtiyaçları karşılamak için finansal destek arıyoruz ve bu desteği kollektif katılım yoluyla edinmek istiyoruz.
 
+![Destek Ariyoruz](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/destek-ariyoruz.png?raw=true)
+
 ## Neden kollektif katılım?
 
 Açık iş modelinde, sağlayıcı-geliştirici-hizmet veren ve finansal katılımcıların özgürlüklerini korumak öncelikli kaygımızdır. Bugüne kadar gördüğümüz örneklerde bir veya bir kaç kişinin büyük finansal kaynak sağlamasının, yapılan projeye dahil olan herkesin eşit katılım hakkını elinden aldığı ve hiyerarşik bir düzen kurulmasına neden olduğu aşikardır. Bu nedenle, finansal katılımcıların verecekleri desteğe belli bir üst limit çiziyoruz ve finansal desteği kollektif bir yapıda çözmek istiyoruz.
@@ -24,6 +26,8 @@ Başlangıç projesi, açık iş sisteminin sürekliliğini sağlamak açısınd
 
 
 ## Kazanımlarımız ne olacak?
+
+![Destek Geri Dönüş](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/finansal-destek-geri-donus.png?raw=true)
 
 Kazanımlarımızı iki anlamda değerlendiriyoruz: **deneyim / bilgi birikimi** ve **finansal** kazanım. İlk projemizin gelişimi ve üretim süreçlerine dair gelişmeleri, blogumuz ve sosyal medya hesaplarımız üzerinden sürekli güncelleyeceğiz. Blogumuzu ve sosyal medya hesaplarımızı takip ettiğiniz sürece, projenin aşamalarını, karşılaştığımız sorunları, bulduğumuz çözümleri, finansal kazanım ve harcamaları, neşemizi ve hüznümüzü görebilirsiniz. Ayrıca, teknik bilgi birikimimizden faydalanmak için github hesabımızı takip edebilir, yazılımımızın gelişimini gözlemleyebilir, sevincinizi bizimle paylaşabilirsiniz.
 
