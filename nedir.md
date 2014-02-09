@@ -7,7 +7,7 @@ title: Lala Projesi Nedir?
 
 Lala, bulut platformda bulunan ve küçük işyerleri için günlük işlerini yönetebilecekleri bir uygulama sistemidir. Sistem, altyapı olarak kullanılacak bir bulut platform ve platform üzerinde çalışan uygulamalardan oluşmaktadır.
 
-![Lala Projesinin İşleme Süreçleri](https://github.com/lala-projesi/lala-projesi.github.io/diff_blob/6eef1c1369fc1a096917affd553288bd6576ed24/images/lala-img-w-03.png?raw=true)
+![Lala Projesinin İşleme Süreçleri](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/lala-proje.png?raw=true)
 
 ## Bulut platformu ne demek?
 
