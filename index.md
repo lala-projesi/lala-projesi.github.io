@@ -13,9 +13,15 @@ Lala, bulut platformda bulunan ve küçük işyerleri için günlük işlerini y
 - **Öğrenmesi kolaydır**, bütün kullanıcılara eğitim videoları otomatik ulaşır. Kullanıcılar, neyi-nerede bulacağını ve nasıl kullanacağını aramak ve düşünmek zorunda kalmaz.
 - **Ödemesi kolaydır** çünkü biz, kullanıcılarımıza hem iş hem de finansal ortaklarımız gözüyle bakarız. Bu nedenle bir servet ödemelerini değil, sistemden faydalandıkları ölçüde finansal katkılarını bekleriz.
 
+![Lala Projesinin İşleme Süreçleri](https://github.com/lala-projesi/lala-projesi.github.io/diff_blob/6eef1c1369fc1a096917affd553288bd6576ed24/images/lala-img-w-03.png?raw=true)
+
+
 [Açık İş Modeli](acik-is.html)
 
 Kaynaklara eşit ulaşım hakkının ve yapılan işlere eşit katılımının sağlanmasını istiyoruz. Bu nedenle hayatımızı ve iş modelimizi **meta üretmek üzere değil, değer üretmek üzere** kuruyoruz. Bu modeli uygulamakla, kollektif genlerimizi uyandırıp, yeni deneyimler biriktirip, amacımızı araç haline getirip, bizi “biz” yapacağımıza inanıyoruz.
+
+![Acik İş Modeli](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/lala-img-w-01.png?raw=true)
+
 
 [Destek Arıyoruz](destek.html)
 
@@ -24,3 +30,5 @@ Projemizin geliştirme, kurulum, tanıtım ve kullanıcı ilişkileri kurma aşa
 Kazanımlarımızı iki anlamda değerlendiriyoruz: deneyim / bilgi birikimi ve finansal kazanım. İlk projemizin gelişimi ve üretim süreçlerine dair gelişmeleri, blogumuz ve sosyal medya hesaplarımız üzerinden sürekli güncelleyeceğiz. Blogumuzu ve sosyal medya hesaplarımızı takip ettiğiniz sürece, projenin aşamalarını, karşılaştığımız sorunları, bulduğumuz çözümleri, finansal kazanım ve harcamaları, neşemizi ve hüznümüzü görebilirsiniz. Ayrıca, teknik bilgi birikimimizden faydalanmak için github hesabımızı takip edebilir, yazılımımızın gelişimini gözlemleyebilir, sevincinizi bizimle paylaşabilirsiniz.
 
 Hediye kültürü dahilinde değerlendirdiğimizde, elde ettiğimiz finansal kazanımları yine açık projeler üreterek değerlendirmeyi, böylece çeşitli ortak projeler üretebilmek için gerekli üretim aletlerini ve yaşam koşullarını sağlamayı hedefliyoruz. Bunun, meta üretmekten çok değer üretmek isteyen insanlar için güzel bir olanak olduğuna inanıyoruz. Bununla beraber, sistemin sürdürülebilirliğini sağladığımız anda, edinilen kazanımın %30’luk kısmını, bize finansal desteklerini hediye eden katılımcılarımızla paylaşmayı hedefliyoruz.
+
+
