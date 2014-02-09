@@ -27,10 +27,12 @@ Başlangıç projesi, açık iş sisteminin sürekliliğini sağlamak açısınd
 
 ## Kazanımlarımız ne olacak?
 
-![Destek Geri Dönüş](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/finansal-destek-geri-donus.png?raw=true)
+![Destek Geri Dönüş](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/kazanimlar.png?raw=true)
 
 Kazanımlarımızı iki anlamda değerlendiriyoruz: **deneyim / bilgi birikimi** ve **finansal** kazanım. İlk projemizin gelişimi ve üretim süreçlerine dair gelişmeleri, blogumuz ve sosyal medya hesaplarımız üzerinden sürekli güncelleyeceğiz. Blogumuzu ve sosyal medya hesaplarımızı takip ettiğiniz sürece, projenin aşamalarını, karşılaştığımız sorunları, bulduğumuz çözümleri, finansal kazanım ve harcamaları, neşemizi ve hüznümüzü görebilirsiniz. Ayrıca, teknik bilgi birikimimizden faydalanmak için github hesabımızı takip edebilir, yazılımımızın gelişimini gözlemleyebilir, sevincinizi bizimle paylaşabilirsiniz.
 
 İlk projenin yanı sıra ileride gerçekleştirmeyi hedeflediğimiz gerek yazılım, gerekse el işi atölyeleri, yazma-çizme atölyeleri gibi projelerimizi de bloglarımız ve sosyal medya hesaplarımız üzerinden paylaşmaya devam edeceğiz. Böylece, sadece ilk proje ile sınırlı olmadan, pek çok konuda edindiğimiz deneyim ve bilgi birikimine ulaşabileceksiniz. Ayrıca, sistemin sürdürülebilirliği sağlandığı andan itibaren ortak projelere üretici-geliştirici olarak da sisteme dahil olabilirsiniz.
+
+![Destek Geri Dönüş](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/finansal-destek-geri-donus.png?raw=true)
 
 Hediye kültürü dahilinde değerlendirdiğimizde, elde ettiğimiz finansal kazanımları yine açık projeler üreterek değerlendirmeyi, böylece çeşitli ortak projeler üretebilmek için gerekli üretim aletlerini ve yaşam koşullarını sağlamayı hedefliyoruz. Bunun, meta üretmekten çok değer üretmek isteyen insanlar için güzel bir olanak olduğuna inanıyoruz. Bununla beraber, sistemin sürdürülebilirliğini sağladığımız anda, edinilen kazanımın %30'luk kısmını, bize finansal desteklerini hediye eden katılımcılarımızla paylaşmayı hedefliyoruz.
