@@ -10,7 +10,7 @@ title: Neden "açık iş" modeli?
 Bizler, hediye kültürünü bilincimizde ve genlerimizde taşımaya devam ediyoruz. Teknolojinin ilerlemesi ve sistemin küreselleşmesi ile fikri birikimlerimizi ve deneyimlerimizi ortaklaştırabildiğimiz ve paylaşabildiğimiz alanlar yaratmayı bu sayede başarabildik. Kaynaklara eşit ulaşım hakkının ve yapılan işlere eşit katılımının sağlanmasını istiyoruz. Bu nedenle hayatımızı ve iş modelimizi **meta üretmek üzere değil, değer üretmek üzere kuruyoruz.**
 Bu modeli uygulamakla, kollektif genlerimizi uyandırıp, yeni deneyimler biriktirip, amacımızı araç haline getirip, bizi "biz" yapacağımıza inanıyoruz. **Bu nedenle "açık iş modeli" ni kurmaya ve sürdürmeye destek vermek isteyen insanlara çağrı yapıyoruz.**
 
-![Acik İş Modeli](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/lala-img-w-01.png?raw=true)
+![Acik İş Modeli](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/acik-is-modeli.png?raw=true)
 
 ## "Açık iş" ne demek?
 
@@ -28,7 +28,7 @@ Bu modeli uygulamakla, kollektif genlerimizi uyandırıp, yeni deneyimler birikt
 
 * Prensipleri vardır ve sabit gördüğü tek şey değişimdir: geri kalan herşey, zaman içinde ortaya çıkan ihtiyaçlar doğrultusunda şekillenir. Böylece hem kullanıcılarını hem de kendisini gereksiz detaylarda boğmaz, ihtiyaç olmayan işlerle zaman ve emek harcamaz.
 
-![Açık İş Modeli ve Klasik İş Modeli Karşılaştırması](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/lala-img-w-02.png?raw=true)
+![Açık İş Modeli ve Klasik İş Modeli Karşılaştırması](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/acik-is-karsilastirma.png?raw=true)
 
 
 ## Ne kadarı açık?
@@ -37,3 +37,7 @@ Bizler, önceden birikmiş deneyimlerimiz ve kendi deneyimlerini paylaşan insan
 Üzerinde çalışırken zaman, emek ve finans yatırımı yaptığımız özelleşmiş çıktıları sistem özelinde tutmayı, sistemin sürdürülebilirliğini sağlamak için uygun görüyoruz. Ancak başka ürünler üretebilmek için kullanabilecek olan sistem/üretim araçlarını ve blogumuz üzerinden deneyimlerimizi paylaşıma açıyoruz.
 
 Bu konuda sorularınız / eklemek istediğiniz katkılarınız için bize ulaşmaktan çekinmeyin.
+
+![Açık İş Modeli ve Klasik İş Modeli Karşılaştırması](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/kazanimlar.png?raw=true)
+
+
