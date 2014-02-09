@@ -7,8 +7,8 @@ title: Neden "açık iş" modeli?
 
 İnsanlığın dünya üzerindeki uzun yolculuğu boyunca, toprak ve su gibi en temel ihtiyaçlara ulaşımının engellenmesinden başlayıp, üretilen teknoloji ve ürünlerin birer meta haline geldiğine tanıklık ettik. Hayatımızda yer alan ve aslında en temel ihtiyaçlarımız olan kaynakların ve nesnelerin metalaşması, dünya üzerinde eşitsizliği gittikçe derinleştirdiği gibi, yaşamın ve kurduğumuz işlerin sürdürülebilir olması önündeki en büyük engellerden biridir.
 
-Bizler, hediye kültürünü bilincimizde ve genlerimizde taşımaya devam ediyoruz. Teknolojinin ilerlemesi ve sistemin küreselleşmesi ile fikri birikimlerimizi ve deneyimlerimizi ortaklaştırabildiğimiz ve paylaşabildiğimiz alanlar yaratmayı bu sayede başarabildik. Kaynaklara eşit ulaşım hakkının ve yapılan işlere eşit katılımının sağlanmasını istiyoruz. Bu nedenle hayatımızı ve iş modelimizi meta üretmek üzere değil, değer üretmek üzere kuruyoruz.
-Bu modeli uygulamakla, kollektif genlerimizi uyandırıp, yeni deneyimler biriktirip, amacımızı araç haline getirip, bizi "biz" yapacağımızaa inanıyoruz. **Bu nedenle "açık iş modeli" ni kurmaya ve sürdürmeye destek vermek isteyen insanlara çağrı yapıyoruz.**
+Bizler, hediye kültürünü bilincimizde ve genlerimizde taşımaya devam ediyoruz. Teknolojinin ilerlemesi ve sistemin küreselleşmesi ile fikri birikimlerimizi ve deneyimlerimizi ortaklaştırabildiğimiz ve paylaşabildiğimiz alanlar yaratmayı bu sayede başarabildik. Kaynaklara eşit ulaşım hakkının ve yapılan işlere eşit katılımının sağlanmasını istiyoruz. Bu nedenle hayatımızı ve iş modelimizi **meta üretmek üzere değil, değer üretmek üzere kuruyoruz.**
+Bu modeli uygulamakla, kollektif genlerimizi uyandırıp, yeni deneyimler biriktirip, amacımızı araç haline getirip, bizi "biz" yapacağımıza inanıyoruz. **Bu nedenle "açık iş modeli" ni kurmaya ve sürdürmeye destek vermek isteyen insanlara çağrı yapıyoruz.**
 
 
 ## "Açık iş" ne demek?
