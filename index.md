@@ -3,36 +3,31 @@ layout: default
 title: lala projesi
 ---
 
-[Lala Projesi Nedir?](nedir.html)
-
-Lala, bulut platformda bulunan ve küçük işyerleri için günlük işlerini yönetebilecekleri bir uygulama sistemidir. Bulut platformda olması ve açık iş modeli ile çalışması, onu hem **kolay** hem de **güvenli** kılar.
-
-- **Kolay erişim** sağlarsınız; sisteme giriş yapmak için bilgileri doğrulamak yeter.
-- **Kullanımı kolaydır**; Sistemi kullanmak için, yaptığınız işi bilmeniz yeterlidir; siz sisteme değil, sistem sizin iş akışınıza uyar.
-- **Güncellemesi ve geliştirmesi kolaydır**; bilgisayarınızla veya serverınızla aranızı bozan diyaloglar yaşamazsınız.
-- **Öğrenmesi kolaydır**, bütün kullanıcılara eğitim videoları otomatik ulaşır. Kullanıcılar, neyi-nerede bulacağını ve nasıl kullanacağını aramak ve düşünmek zorunda kalmaz.
-- **Ödemesi kolaydır** çünkü biz, kullanıcılarımıza hem iş hem de finansal ortaklarımız gözüyle bakarız. Bu nedenle bir servet ödemelerini değil, sistemden faydalandıkları ölçüde finansal katkılarını bekleriz.
-
-![Lala Projesinin İşleme Süreçleri](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/lala-proje.png?raw=true)
+Lala, özünü hediye kültüründen ve [açık iş modeli](acik-is-faq.html)nden alır. Lala'yı sürdürülebilir kılmak için;
 
 
-[Açık İş Modeli](acik-is.html)
+## [Sevdiğimiz şeyleri yapıyoruz](ne-yapiyoruz.html)
+![sevdiğimiz şeyleri yapıyoruz](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+)
 
-Kaynaklara eşit ulaşım hakkının ve yapılan işlere eşit katılımının sağlanmasını istiyoruz. Bu nedenle hayatımızı ve iş modelimizi **meta üretmek üzere değil, değer üretmek üzere** kuruyoruz. Bu modeli uygulamakla, kollektif genlerimizi uyandırıp, yeni deneyimler biriktirip, amacımızı araç haline getirip, bizi “biz” yapacağımıza inanıyoruz.
+Yazılım yazmayı, tasarım yapmayı, dikiş dikmeyi, müzik yapmayı sevdiğimiz için yapıyoruz. Hem mutlu oluyoruz, hem değer üretiyoruz.
 
-![Acik İş Modeli ve Klasik İş Modeli Karşılaştırması](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/acik-is-karsilastirma.png?raw=true)
+## [Açık iş modeli ile çalışıyoruz ](acik-is.html)
+![Açık iş modeli](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+)
+
+Meta yerine değer üretmek, kaynaklarımızı paylaşmak, müşterilerin ve kullanıcıların işlerimize katılımını sağlamak, hem onları hem de bizi besliyor.
+
+## [Kaynaklarımızı paylaşıyoruz](kaynaklarimiz.html)
+![Kaynaklarımız](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+)
+
+Sahip olduğumuz bilgi, deneyim, iş araçlarını paylaşıyoruz. İhtiyacımız olan kaynakları yaratmak için kollektif ruhtan besleniyoruz.
+
+## [Projelerimizi gerçekleştiriyoruz](projelerimiz.html)
+![Projelerimiz](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+)
+
+İlk projemiz, açık iş modeli ile kurduğumuz yazılım projesi.
 
 
-[Destek Arıyoruz](destek.html)
-
-![Destek Ariyoruz](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/destek-ariyoruz.png?raw=true)
-
-Projemizin geliştirme, kurulum, tanıtım ve kullanıcı ilişkileri kurma aşamasında işleri yürütebilmemiz için gerekli minimum ihtiyaçları karşılamak için finansal destek arıyoruz ve bu desteği kollektif katılım yoluyla edinmek istiyoruz.
-
-Kazanımlarımızı iki anlamda değerlendiriyoruz: deneyim / bilgi birikimi ve finansal kazanım. İlk projemizin gelişimi ve üretim süreçlerine dair gelişmeleri, blogumuz ve sosyal medya hesaplarımız üzerinden sürekli güncelleyeceğiz. Blogumuzu ve sosyal medya hesaplarımızı takip ettiğiniz sürece, projenin aşamalarını, karşılaştığımız sorunları, bulduğumuz çözümleri, finansal kazanım ve harcamaları, neşemizi ve hüznümüzü görebilirsiniz. Ayrıca, teknik bilgi birikimimizden faydalanmak için github hesabımızı takip edebilir, yazılımımızın gelişimini gözlemleyebilir, sevincinizi bizimle paylaşabilirsiniz.
-
-Hediye kültürü dahilinde değerlendirdiğimizde, elde ettiğimiz finansal kazanımları yine açık projeler üreterek değerlendirmeyi, böylece çeşitli ortak projeler üretebilmek için gerekli üretim aletlerini ve yaşam koşullarını sağlamayı hedefliyoruz. Bunun, meta üretmekten çok değer üretmek isteyen insanlar için güzel bir olanak olduğuna inanıyoruz. Bununla beraber, sistemin sürdürülebilirliğini sağladığımız anda, edinilen kazanımın %30’luk kısmını, bize finansal desteklerini hediye eden katılımcılarımızla paylaşmayı hedefliyoruz.
-
-![Destek Geri Dönüş](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/finansal-destek-geri-donus.png?raw=true)
-
-
+[Peki biz kimiz?](biz.html)
+[Atölyelerimiz](kaynaklarimiz.html)
+[Destek Arıyoruz](kaynaklarimiz.html)
+[yazılım](kaynaklarimiz.html)
