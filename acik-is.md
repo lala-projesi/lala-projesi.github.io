@@ -3,20 +3,26 @@ layout: default
 title: Neden "açık iş" modeli?
 ---
 
-# Neden "açık iş" modeli?
+# Sürüdürülebilir dünya ve yaşam için önerimiz "açık iş modeli" ve "hediye kültürü"
 
-İnsanlığın dünya üzerindeki uzun yolculuğu boyunca, toprak ve su gibi en temel ihtiyaçlara ulaşımının engellenmesinden başlayıp, üretilen teknoloji ve ürünlerin birer meta haline geldiğine tanıklık ettik. Hayatımızda yer alan ve aslında en temel ihtiyaçlarımız olan kaynakların ve nesnelerin metalaşması, dünya üzerinde eşitsizliği gittikçe derinleştirdiği gibi, yaşamın ve kurduğumuz işlerin sürdürülebilir olması önündeki en büyük engellerden biridir.
+Neden çalışıyoruz sorusunun herkes için farklı yanıtları olacaktır. Kimisi yaptığı işi sevdiği için, kimisi geçimini sağlamak için başka seçeneği olmadığından, kimisi çalışmasaydı ne yapıyor olacağını bilmediğinden, her gün aynı saatte, aynı iş yerine giderek emeğini, zamanını ve enerjisini çalıştığı işe vakfediyor. Temelde herkesin birleştiği amaç ise aynı:
 
-Bizler, hediye kültürünü bilincimizde ve genlerimizde taşımaya devam ediyoruz. Teknolojinin ilerlemesi ve sistemin küreselleşmesi ile fikri birikimlerimizi ve deneyimlerimizi ortaklaştırabildiğimiz ve paylaşabildiğimiz alanlar yaratmayı bu sayede başarabildik. Kaynaklara eşit ulaşım hakkının ve yapılan işlere eşit katılımının sağlanmasını istiyoruz. Bu nedenle hayatımızı ve iş modelimizi **meta üretmek üzere değil, değer üretmek üzere kuruyoruz.**
-Bu modeli uygulamakla, kollektif genlerimizi uyandırıp, yeni deneyimler biriktirip, amacımızı araç haline getirip, bizi "biz" yapacağımıza inanıyoruz. **Bu nedenle "açık iş modeli" ni kurmaya ve sürdürmeye destek vermek isteyen insanlara çağrı yapıyoruz.**
+* Barınmak, yemek-içmek, giyinmek gibi,
+* Üretmek ve paylaşmak gibi,
+* Sosyalleşmek, bir komüniteye ait olmak gibi,
+* Dijital donanım, gitar, dikiş makinası ve bisiklet gibi kendimizi üretebileceğimiz araçları edinmek gibi 
 
-![Acik İş Modeli](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/acik-is-modeli.png?raw=true)
+temel ihtiyaçların karşılanması.
+
+Oysa, klasik iş modeli, kendini sürdürebilmek için, doğal varlıklar dahil olmak üzere bütün kaynakları ve değerleri metalaştırmış, dünyanın geleceğine dair önemli pek çok kararın alınmasını şirketlerin elinde tekelleştirmiş durumda. Şu haliyle, klasik iş modeli ve sistem, insanlar için eşitsizliği gittikçe derinleştirdiği gibi, doğanın kendini yenilemesi ve doğal varlıkların korunması önündeki en büyük engeli teşkil ediyor.
+
+Öte yandan, insanlık olarak, hediye kültürünü bilincimizde ve genlerimizde taşımaya devam ediyoruz. Dünya çapında çeşitli topluluklar ve bireyler olarak, teknolojinin ilerlemesi ve küreselleşme ile fikri birikimlerin ve deneyimlerin ortaklaştırabildiği ve paylaşılabildiği alanlar yaratmayı başarabildik. Bütün bu deneyimlerin sonucunda, yukarıda saydığımız ihtiyaçların, kaynaklara eşit ulaşım hakkının ve yapılan işlere eşit katılımının sağlanmasının hayatı **meta üretmek üzere değil, değer üretmek üzere kurarak** sağlanabileceğini gördük. 
 
 ## "Açık iş" ne demek?
 
 * Açık iş modeli, üretim araçlarına ulaşım, yapılan işlere katılım ve kazanımları paylaşım konusunda eşitliği ve özgürlüğü öncelik olarak görür.
 
-* Açık iş modeli, **insanlar için değer üretir.** Bu nedenle yapılan işler her zaman yenilenmeye ve değeri yeniden üretmeye açıktır.
+* Açık iş modeli, **değer üretir**. Bu nedenle yapılan işler her zaman yenilenmeye ve değeri yeniden üretmeye açıktır.
 
 * "Kullanıcıları" kapıların ardındaki bir dünyaya kapatmak yerine, onları değer üretim sürecinin içine katar. Kullanıcıların ihtiyaçlarından ve bildirimlerinden ilham alarak yenilenir, gelişir.
 
@@ -28,16 +34,8 @@ Bu modeli uygulamakla, kollektif genlerimizi uyandırıp, yeni deneyimler birikt
 
 * Prensipleri vardır ve sabit gördüğü tek şey değişimdir: geri kalan herşey, zaman içinde ortaya çıkan ihtiyaçlar doğrultusunda şekillenir. Böylece hem kullanıcılarını hem de kendisini gereksiz detaylarda boğmaz, ihtiyaç olmayan işlerle zaman ve emek harcamaz.
 
-![Açık İş Modeli ve Klasik İş Modeli Karşılaştırması](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/acik-is-karsilastirma.png?raw=true)
+## Hediye kültürü nedir?
 
-
-## Ne kadarı açık?
-
-Bizler, önceden birikmiş deneyimlerimiz ve kendi deneyimlerini paylaşan insanlar sayesinde, pek çok şeyi tekrar tekrar denemek zorunda kalmıyoruz. Hali hazırda kullanılan yöntemleri, iş araçlarını, yazılımları, teknikleri öğrenip, kendi yaratıcılığımız ve deneyimlerimizle harmanlayıp, yeniden üretiyoruz.
-Üzerinde çalışırken zaman, emek ve finans yatırımı yaptığımız özelleşmiş çıktıları sistem özelinde tutmayı, sistemin sürdürülebilirliğini sağlamak için uygun görüyoruz. Ancak başka ürünler üretebilmek için kullanabilecek olan sistem/üretim araçlarını ve blogumuz üzerinden deneyimlerimizi paylaşıma açıyoruz.
-
-Bu konuda sorularınız / eklemek istediğiniz katkılarınız için bize ulaşmaktan çekinmeyin.
-
-![Açık İş Modeli ve Klasik İş Modeli Karşılaştırması](https://github.com/lala-projesi/lala-projesi.github.io/blob/master/images/kazanimlar.png?raw=true)
+#### [Sıkça karşılaştığımız sorulara yanıtlar](acik-is-faq.html)
 
 
