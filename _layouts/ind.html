@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{page.title}}</title>
+    <link rel="stylesheet" href="stylesheets/normalize.css">
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+		<link rel="stylesheet" href="stylesheets/jumbotron.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+      <div id="header">
+        {% include header.html %}
+      </div><!-- end header -->
+
+	    <div class="container">
+				<div class="starter-template">
+          <h1>Lala'ya hoşgeldiniz...</h1>
+					<p class="lead">Lala projesi, özünü hediye kültüründen ve açık yaşam felsefesinden alan, şehirde sürdürülebilir bir yaşam kurma deneyimidir. Bu deneyimin parçası olarak bizler </p>
+				</div>
+
+	      {% include fourboxes.html %}
+        <hr>
+	      {% include jumbotron.html %}
+			</div>
+		
+	    <footer>
+	      <hr>
+	      <a href="https://github.com/lala-project">Github Profilimiz</a>
+	      <a href="https://twitter.com/lalaprojesi">Twitter Hesabımız</a>
+	      <a href="https://www.facebook.com/lalaprojesi">Facebook Sayfamız</a>
+	      <a href="mailto:lalaprojesi@gmail.com">Email</a>
+	      <br>
+
+	      <span class="credits left">Project maintained by <a href="https://github.com/lala-projesi">lala-projesi</a></span>
+	      <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+	    </footer>
+
+
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-47811272-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
