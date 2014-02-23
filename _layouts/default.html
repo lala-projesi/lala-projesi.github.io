@@ -18,30 +18,17 @@
 
   </head>
   <body>
-      <div id="header">
-        <nav>
-          <li class="fork"><a href="acik-is.html">Açık İş Modeli</a></li>
-          <li class="fork"><a href="biz.html">Biz</a></li>
-          <li class="fork"><a href="ne-yapiyoruz.html">Ne Yapıyoruz</a></li>
-          <li class="fork"><a href="kaynaklarimiz.html">Kaynaklarımız</a></li>
-          <li class="fork"><a href="projelerimiz.html">Projelerimiz</a></li>
-          <li class="title"><a href="https://github.com/lala-projesi">View On GitHub</a></li>
-        </nav>
-      </div><!-- end header -->
+    <div id="header">
+      {% include header.html %}
+    </div><!-- end header -->
 
-    <div class="wrapper">
+    <div class="container">
 
       <section>
-        <div id="title">
-          <h1><a href='/'>Lala projesi</a></h1>
-          <p>şehirde sürdürülebilir açık yaşam deneyimi projesidir.</p>
-          <hr>
-        </div>
-
         {{ content }}
       </section>
 
-      <footer class="hidden">
+      <footer>
         <hr>
         <a href="https://github.com/lala-project">Github Profilimiz</a>
         <a href="https://twitter.com/lalaprojesi">Twitter Hesabımız</a>
@@ -51,12 +38,7 @@
 
         <span class="credits left">Project maintained by <a href="https://github.com/lala-projesi">lala-projesi</a></span>
         <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-
-
-
       </footer>
-
-
     </div>
 
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
