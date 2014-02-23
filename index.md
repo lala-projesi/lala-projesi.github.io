@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ind
 title: lala projesi
 ---
 
