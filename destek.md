@@ -3,7 +3,6 @@ layout: default
 title: Destek Arıyoruz
 ---
 
-
 # Destek Arıyoruz
 
 Henüz üç kişilik çekirdek ekip ile çıktığımız yolda, giderek artan sayıda katılımcı ve proje çeşitliliğine ulaşmayı planlıyoruz. Şehirde sürdürülebilirlik ve özgürleşme konusunda birlikte deneyim kazanıp, hayatlarımızı kendi prensiplerimizle yaşayabileceğimiz bir ortam yaratabilmek için kaynak üretmek ve paylaşıma açmak istiyoruz. Yola, hazırlık aşamasında olduğumuz ilk yazılım projemizle çıkıyoruz.
