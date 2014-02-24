@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Destek Arıyoruz
+title: Biz Kimiz?
 ---
 
 # Küçük bir topluluk olarak biz
@@ -22,29 +22,3 @@ Kod yazarı, proje geliştirici, danışman, sensei, bisikletçi, gitarist, tami
 [blog yazıları]()
 
 Kod yazma öğrencisi, grafik tasarımcı, proje geliştirici, uchideshi, bisikletçi, dikişçi, aşçı, blog yazarı
-
-## Katılımcı olmak
-
-Yaptığımız herşeyde, çevremizdeki insanların fikirleri, emekleri, kaynakları, merakları, sevinç veya hüzünleri ile işlerin parçası olmasını seviyoruz. Siz de bize pek çok yolla katılabilirsiniz.
-
-#### Proje katılımcısı olabilirsiniz
-
-Yaptığımız projelere katılmak isterseniz bize mail veya telefon yolu ile ulaşmanız yeterlidir.
-
-#### Atölye katılımcısı olabilirsiniz
-
-İki şekilde atölye katılımcısı olabilirsiniz:
-
-- Yapmak istediğiniz bir atölye için mekanımızı kullanabilir, gerek elimizdeki gerekse sahip olduğunuz iş araçlarını ve kaynakları kullanarak atölyeleriniz gerçekleştirebilirsiniz. Duyurularınızı sosyal medya ve blogumuzdan yapmak bizim için keyiftir.
-
-- Gerçekleştirdiğimiz atölyelere gelip bizimle keyifli zaman geçirebilir, deneyimlerinizi paylaşabilirsiniz. Atölyelerimizin duyuruları için [twitter](https://twitter.com/lalaprojesi) ve [facebook](https://www.facebook.com/lalaprojesi) sayfalarımızı takip etmenizi öneririz.
-
-#### Finansal destek katılımcısı olabilirsiniz
-
-Yeni projeler üretmek, atölyeler için ve bu açık yaşam deneyimini sürdürmek için ihtiyaç duyduğumuz finansal kaynaklara destek olmak isterseniz, lütfen mail veya telefon yolu ile iletişime geçin.
-
-#### Deneyim paylaşımı 
-
-Uzaklarda olsanız bile, deneyimlerimizi ve üretimlerimizi sürekli olarak paylaştığımız sosyal medya hesaplarımızı ve blogumuzu takip edebilirsiniz. Kendi deneyimlerinizi, fikirlerinizi, sevincinizi ve üzüntülerinizi, sorularınızı ve çözüm yollarınızı bizimle paylaşmak isterseniz, mail veya telefon yolu ile iletişime geçmeye lütfen çekinmeyin.
-
-
